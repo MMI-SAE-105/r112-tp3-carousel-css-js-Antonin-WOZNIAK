@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : WOZNIAK
+- prénom : Antonin
+- URL Netlify : https://r112-tp3-carousel-antonin-wozniak.netlify.app
 
 # Travail
 
